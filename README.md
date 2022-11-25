@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors
+# Rock-Paper-Scissors on your web browser!
